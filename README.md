@@ -118,11 +118,13 @@ Modular Python architecture designed as a live log for my learning process. Brid
 <br>
 
 <!-- GitHub Stats Section -->
-### 📊 GitHub Analytics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexescent&show_icons=true&theme=radical&include_all_commits=true)
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=alexescent&show_icons=true&theme=radical&title_color=B388EB&icon_color=E6A8D7&text_color=9D84B7&bg_color=FFE4F0&hide_border=true&border_radius=15&include_all_commits=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexescent&theme=radical&ring=B388EB&fire=E6A8D7&currStreakLabel=B388EB&sideLabels=B388EB&currStreakNum=9D84B7&sideNums=9D84B7&dates=E6A8D7&background=FFE4F0&hide_border=true&border_radius=15&stroke=D4A5D4" />
 
 </div>
 <!-- Connect Section -->
