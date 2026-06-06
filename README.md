@@ -154,8 +154,14 @@ Modular Python architecture designed as a live log for my learning process. Brid
 <br>
 <h3>Thank You for Visiting! <3</h3>
 
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/alexescent/alexescent/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 🐍 My Coding Journey
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexescent/alexescent/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexescent/alexescent/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/alexescent/alexescent/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </p>
 <br>
 *"Data is human, code is logical, and the intersection of both is where the best solutions are built."*
