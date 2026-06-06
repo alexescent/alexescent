@@ -154,7 +154,6 @@ Modular Python architecture designed as a live log for my learning process. Brid
 <br>
 <h3>Thank You for Visiting! <3</h3>
 
-### 🐍 My Coding Journey
 
 <p align="center">
   <picture>
