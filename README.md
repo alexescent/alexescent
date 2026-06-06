@@ -1,10 +1,9 @@
 <!-- Header -->
 <div align="center">
 <br>
-# Alejandra Sanz González
-
-### Transforming logic into intuitive digital experiences.
-### Continuously learning, intentionally creating.
+<h1 align="center">Alejandra Sanz González</h1>
+<h3 align="center">Transforming logic into intuitive digital experiences.</h3>
+<h3 align="center">Continuously learning, intentionally creating.</h3>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false" width="50%"/>
