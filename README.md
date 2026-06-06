@@ -106,7 +106,7 @@ High-fidelity prototype showcasing the intersection of technical development and
 ---
 
 ## curso-python-santander
-**[GitHub Repository](https://github.com/TU_USUARIO_GITHUB/curso-python-santander)**
+**[GitHub Repository](https://github.com/alexescent/curso-python-santander)**
 
 Modular Python architecture designed as a live log for my learning process. Bridging logic puzzles with structured code, including exception handling and CLI utilities.
 
