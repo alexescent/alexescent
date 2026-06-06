@@ -119,18 +119,15 @@ Modular Python architecture designed as a live log for my learning process. Brid
 <br>
 
 <!-- GitHub Stats Section -->
-<details open>
-<summary><h3>GitHub Analytics</h3></summary>
-<br>
-<div align="center">
+### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&title_color=B388EB&icon_color=E6A8D7&text_color=9D84B7&bg_color=FFE4F0&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&title_color=B388EB&icon_color=E6A8D7&text_color=9D84B7&bg_color=FFE4F0&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-</div>
-<br>
-</details>
-
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical&ring=B388EB&fire=E6A8D7&currStreakLabel=B388EB&sideLabels=B388EB&currStreakNum=9D84B7&sideNums=9D84B7&dates=E6A8D7&background=FFE4F0&hide_border=true&border_radius=15&stroke=D4A5D4" alt="GitHub Streak" />
+</p>
 
 <!-- Connect Section -->
 <details>
