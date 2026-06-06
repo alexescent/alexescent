@@ -155,7 +155,7 @@ Modular Python architecture designed as a live log for my learning process. Brid
 <h3>Thank You for Visiting! <3</h3>
 
   <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/alexescent/alexescent/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 <br>
 *"Data is human, code is logical, and the intersection of both is where the best solutions are built."*
